@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@mipmap/home"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@mipmap/camera"
+            android:title="Camera" />
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@mipmap/photo_gallery"
+            android:title="Gallery" />
+
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@mipmap/contact"
+            android:title="Contact" />
+
+        <item
+            android:id="@+id/nav_discover"
+            android:icon="@mipmap/discover_2"
+            android:title="Discover" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_user"
+                android:icon="@mipmap/person"
+                android:title="Person" />
+
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@mipmap/send"
+                android:title="Send" />
+
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@mipmap/share"
+                android:title="Share" />
+
+            <item
+                android:id="@+id/nav_email"
+                android:icon="@mipmap/email"
+                android:title="E-mail" />
+        </menu>
+    </item>
+
+</menu>
