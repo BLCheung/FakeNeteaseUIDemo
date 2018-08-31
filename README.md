@@ -1,6 +1,6 @@
 # FakeNeteaseUIDemo
 
 
-![img](https://github.com/BLCheung/FakeNeteaseUI/master/image/logo.gif)
+![](https://github.com/BLCheung/FakeNeteaseUI/raw/master/image/logo.gif)
  
 
