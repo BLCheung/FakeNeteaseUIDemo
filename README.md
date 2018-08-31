@@ -1,0 +1,2 @@
+# FakeNeteaseUIDemo
+基于CoordinatorLayout+NavigationView+ViewPage+RecyclerView实现仿网易新闻客户端的案例,用于复习Material Design
