@@ -1,4 +1,4 @@
 # FakeNeteaseUIDemo
-本项目你还可以学习到RecyclerView添加水波纹点击效果与TabLayout与ViewPage跟Fragment同步等等。
+![](https://github.com/BLCheung/FakeNeteaseUI/raw/img/master/img/quhih-lgki7.gif)
  
 
